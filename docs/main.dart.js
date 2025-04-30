@@ -32512,7 +32512,7 @@ p===$&&A.b()
 p=p.x
 p===$&&A.b()
 p=Math.sin(p*2*3.141592653589793+q.b)
-return A.W7(r,A.Nf(r,r,new A.fJ(r,new A.mB(new A.pv("assets/images/my_image_"+s.e+".png"),B.vb),r,r,r,r,B.c7),133.4,r,r,100),r,r,150+s.c-50,r,120+s.d+q.a*p-66.7,r)},
+return A.W7(r,A.Nf(r,r,new A.fJ(r,new A.mB(new A.pv("images/my_image_"+s.e+".png"),B.vb),r,r,r,r,B.c7),133.4,r,r,100),r,r,150+s.c-50,r,120+s.d+q.a*p-66.7,r)},
 $S:122}
 A.v7.prototype={
 ak(){return new A.EH(null,null)}}
