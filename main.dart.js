@@ -32466,7 +32466,7 @@ s.zB(!0)
 p.d=s
 A.e4(B.dn,s,o)
 r=J.abp(4,t.xA)
-for(q=0;q<4;++q)r[q]=new A.mj("images/my_image_"+q+".png")
+for(q=0;q<4;++q)r[q]=new A.mj("assets/images/my_image_"+q+".png")
 p.r!==$&&A.br()
 p.r=r},
 vD(){var s=0,r=A.P(t.H),q=this
